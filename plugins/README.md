@@ -15,7 +15,7 @@ Available Plugins
 - [**Render Limit Increase**](https://raw.github.com/breunigs/ingress-intel-total-conversion/gh-pages/plugins/render-limit-increase.user.js) increases render limits. Good for high density areas (e.g. London, UK) and faster PCs.
 - [**Resonator Display Zoom Level Decrease**](https://raw.github.com/breunigs/ingress-intel-total-conversion/gh-pages/plugins/resonator-display-zoom-level-decrease.user.js) Resonator start displaying earlier.
 - [**Player Tracker**](https://raw.github.com/breunigs/ingress-intel-total-conversion/gh-pages/plugins/player-tracker.user.js) Draws trails for user actions in the last hour. At the last known location there’s a tooltip that shows the data in a table. [View screenshot](http://breunigs.github.com/ingress-intel-total-conversion/screenshots/plugin_player_tracker.png). **REQUIRES IITC v0.7+**. 0.7 is not yet available. You need to build it yourself.
-
+- [**Portal Level Color**](https://raw.github.com/breunigs/ingress-intel-total-conversion/gh-pages/plugins/show-portal-colorlevel.user.js) Use the fill color of the portals to show the portal level and the border color for the team
 
 Hacking
 -------
